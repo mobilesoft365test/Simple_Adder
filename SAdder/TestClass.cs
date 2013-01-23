@@ -12,7 +12,7 @@ namespace SAdder
         [Test]
         public static void Test1()
         {
-            Assert.That(SAdder.MainForm.Add(2, 3), Is.EqualTo(5));
+            Assert.That(SAdder.MainForm.Add(2, 4), Is.EqualTo(6));
             Assert.That(SAdder.MainForm.Add(4,8),Is.EqualTo(12));
         }
     }
