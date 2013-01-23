@@ -293,7 +293,7 @@
             {
             "DefaultLocation" = "8:[ProgramFilesFolder]\\[ProductName]"
             "Name" = "8:#1925"
-            "AlwaysCreate" = "11:FALSE"
+            "AlwaysCreate" = "11:TRUE"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Property" = "8:TARGETDIR"
@@ -329,7 +329,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Adder"
         "ProductCode" = "8:{44DB3B05-3782-4C51-94A1-DC687EF5EDD9}"
-        "PackageCode" = "8:{BD13CD9F-14BA-443A-AECC-F2A6FD2F348A}"
+        "PackageCode" = "8:{D0A6F6C6-1278-48E4-BE7B-A530837570A4}"
         "UpgradeCode" = "8:{248E6134-D619-433F-955F-97E486910160}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
