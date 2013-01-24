@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAdder", "SAdder\SAdder.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdderTest", "AdderTest\AdderTest.csproj", "{19A8BE22-5838-49F5-A340-E30B894B21F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodTest", "GoodTest\GoodTest.csproj", "{A81CF4AF-EB7D-42BC-BC94-A569D453E4A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,16 @@ Global
 		{19A8BE22-5838-49F5-A340-E30B894B21F0}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{19A8BE22-5838-49F5-A340-E30B894B21F0}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{19A8BE22-5838-49F5-A340-E30B894B21F0}.Release|x86.ActiveCfg = Release|Any CPU
+		{A81CF4AF-EB7D-42BC-BC94-A569D453E4A0}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{A81CF4AF-EB7D-42BC-BC94-A569D453E4A0}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{A81CF4AF-EB7D-42BC-BC94-A569D453E4A0}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{A81CF4AF-EB7D-42BC-BC94-A569D453E4A0}.Debug|x86.ActiveCfg = Debug|x86
+		{A81CF4AF-EB7D-42BC-BC94-A569D453E4A0}.Debug|x86.Build.0 = Debug|x86
+		{A81CF4AF-EB7D-42BC-BC94-A569D453E4A0}.Release|Any CPU.ActiveCfg = Release|x86
+		{A81CF4AF-EB7D-42BC-BC94-A569D453E4A0}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{A81CF4AF-EB7D-42BC-BC94-A569D453E4A0}.Release|Mixed Platforms.Build.0 = Release|x86
+		{A81CF4AF-EB7D-42BC-BC94-A569D453E4A0}.Release|x86.ActiveCfg = Release|x86
+		{A81CF4AF-EB7D-42BC-BC94-A569D453E4A0}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
