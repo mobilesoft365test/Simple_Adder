@@ -24,9 +24,9 @@ namespace AdderTest
         [Test]
         public void MethodTest()
         {
-            Assert.That(SAdder.MainForm.Add(112,333),Is.EqualTo(445));
-            Assert.That(SAdder.MainForm.Add(-100, 100), Is.EqualTo(0));
-            Assert.That(SAdder.MainForm.Add(50, -65), Is.EqualTo(-15));
+            Assert.Equals(SAdder.MainForm.Add(112,333),445);
+            Assert.Equals(SAdder.MainForm.Add(-100, 100), 0);
+            Assert.Equals(SAdder.MainForm.Add(50, -65), 15);            
         }
 
         [Test]
